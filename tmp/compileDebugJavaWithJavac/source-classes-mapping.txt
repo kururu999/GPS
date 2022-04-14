@@ -1,0 +1,11 @@
+com/example/navits/BuildConfig.java
+ com.example.navits.BuildConfig
+com/example/navits/MainActivity.java
+ com.example.navits.MainActivity
+ com.example.navits.MainActivity$1
+ com.example.navits.MainActivity$2
+ com.example.navits.MainActivity$3
+ com.example.navits.MainActivity$4
+ com.example.navits.MainActivity$5
+ com.example.navits.MainActivity$6
+ com.example.navits.MainActivity$7
